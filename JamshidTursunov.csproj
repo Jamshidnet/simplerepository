@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Massenger\Classes\Contact.cs" />
+    <Compile Remove="Massenger\Interfaces\IContact.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Massenger\States\" />
+  </ItemGroup>
+
+</Project>

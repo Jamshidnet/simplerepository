@@ -1,0 +1,15 @@
+C:\Users\Windows_10\source\repos\JamshidTursunov\bin\Debug\net7.0\JamshidTursunov.exe
+C:\Users\Windows_10\source\repos\JamshidTursunov\bin\Debug\net7.0\JamshidTursunov.deps.json
+C:\Users\Windows_10\source\repos\JamshidTursunov\bin\Debug\net7.0\JamshidTursunov.runtimeconfig.json
+C:\Users\Windows_10\source\repos\JamshidTursunov\bin\Debug\net7.0\JamshidTursunov.dll
+C:\Users\Windows_10\source\repos\JamshidTursunov\bin\Debug\net7.0\JamshidTursunov.pdb
+C:\Users\Windows_10\source\repos\JamshidTursunov\obj\Debug\net7.0\JamshidTursunov.csproj.AssemblyReference.cache
+C:\Users\Windows_10\source\repos\JamshidTursunov\obj\Debug\net7.0\JamshidTursunov.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows_10\source\repos\JamshidTursunov\obj\Debug\net7.0\JamshidTursunov.AssemblyInfoInputs.cache
+C:\Users\Windows_10\source\repos\JamshidTursunov\obj\Debug\net7.0\JamshidTursunov.AssemblyInfo.cs
+C:\Users\Windows_10\source\repos\JamshidTursunov\obj\Debug\net7.0\JamshidTursunov.csproj.CoreCompileInputs.cache
+C:\Users\Windows_10\source\repos\JamshidTursunov\obj\Debug\net7.0\JamshidTursunov.dll
+C:\Users\Windows_10\source\repos\JamshidTursunov\obj\Debug\net7.0\refint\JamshidTursunov.dll
+C:\Users\Windows_10\source\repos\JamshidTursunov\obj\Debug\net7.0\JamshidTursunov.pdb
+C:\Users\Windows_10\source\repos\JamshidTursunov\obj\Debug\net7.0\JamshidTursunov.genruntimeconfig.cache
+C:\Users\Windows_10\source\repos\JamshidTursunov\obj\Debug\net7.0\ref\JamshidTursunov.dll
